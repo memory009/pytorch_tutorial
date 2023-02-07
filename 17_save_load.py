@@ -134,5 +134,5 @@ model.to(device)
 # Next, be sure to call model.to(torch.device('cuda')) to convert the model’s parameter tensors to CUDA tensors
 """
 
-#尝试同步
+
 
